@@ -1,6 +1,7 @@
 # bottom_nav_bar
 
 A new Flutter project.
+![Screen Shot](https://user-images.githubusercontent.com/32810208/85928500-fc0f7f00-b8ca-11ea-81c1-15e6628ea6f4.png)
 
 
 ## Getting Started
