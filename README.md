@@ -1,6 +1,7 @@
 # bottom_nav_bar
 
 A new Flutter project.
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-27 at 22 00 28](https://user-images.githubusercontent.com/32810208/85928234-1183a980-b8c9-11ea-9985-3897fb552c90.png)
 
 ## Getting Started
 
