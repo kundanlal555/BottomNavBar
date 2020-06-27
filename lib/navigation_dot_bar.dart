@@ -51,7 +51,7 @@ class _BottomNavigationDotBarState extends State<BottomNavigationDotBar> {
             //borderRadius: BorderRadius.circular(10),
             child: Container(
           color: widget.backgroundColor,
-          padding: EdgeInsets.fromLTRB(0, 10, 0, 0),
+          padding: EdgeInsets.fromLTRB(0, 10, 0, 10),
           child: Stack(
             key: _keyBottomBar,
             children: <Widget>[
